@@ -29,30 +29,32 @@
 <code><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass"/></code>
 <code><img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/></code>
 <code><img src="https://img.shields.io/badge/bulma-00D1B2.svg?style=for-the-badge&logo=bulma&logoColor=white" alt="bulma"/></code>
+<br/>
+<br/>
 <code><img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/></code>
-<br/>
-<br/>
 <code><img src="https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery"/></code>
 <code><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></code>
 <code><img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router"/></code>
 <code><img src="https://img.shields.io/badge/gatsbyjs-663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" alt="gatsby"/></code>
 <code><img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/></code>
+<br/>
+<br/>
 <code><img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/></code>
-<br/>
-<br/>
 <code><img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json"></code>
 <code><img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/></code>
 <code><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="express"/></code>
 <code><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"></code>
+<br/>
+<br/>
 <code><img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/></code>
 <code><img src="https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql"/></code>
-<br/>
-<br/>
 <code><img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/></code>
 <code><img src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku"/></code>
 <code><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"></code>
 <code><img src="https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=Insomnia&logoColor=white" alt="insomnia"></code>
+<br/>
+<br/>
 <code><img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" alt="xampp"></code>
 <code><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github"></code>
 <code><img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white"></code> 
@@ -62,8 +64,8 @@
 <!--- Analytics ---> 
 ## 𝐺𝑖𝑡𝐻𝑢𝑏 𝐴𝑛𝑎𝑙𝑦𝑡𝑖𝑐𝑠 ⚙️ &nbsp;  
 <a align="left">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sophiakiani&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,&langs_count=8" alt="top langs" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soph-k&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,&langs_count=8" alt="top langs" /></p>
 </a>
 <a align="right">
-  <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sophiakiani&show_icons=true&theme=dark&locale=en" alt="stats" /></p>
+  <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=soph-k&show_icons=true&theme=dark&locale=en" alt="stats" /></p>
 </a>
